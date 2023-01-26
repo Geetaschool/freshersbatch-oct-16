@@ -1,0 +1,38 @@
+body
+{
+	background-color: lightskyblue;
+}
+table
+{
+	background-color: white;
+}
+h1
+{
+	font-family: arial;
+	font-size: 30px;
+	text-decoration: overline;
+}
+.data
+{
+	font-family: arail;
+	font-size: 16px;
+	color: blue;
+}
+.menu
+{
+
+	font-family: vardana;
+	font-size: 16px;
+	color: maroon;
+	font-weight: bold;
+	text-decoration: underline;
+}
+a.menu:hover
+{
+
+	font-family: vardana;
+	font-size: 16px;
+	color: lightblue;
+	font-weight: bold;
+	text-decoration: underline;
+}
