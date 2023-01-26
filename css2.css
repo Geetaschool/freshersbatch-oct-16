@@ -1,0 +1,31 @@
+#header
+{
+	width: 1000px;
+	height: 150px;
+	background-color: #e8103f;
+	margin: auto;
+}
+#menu
+{
+
+	width: 1000px;
+	height: 50px;
+	background-color: #1e727d;
+	margin: auto;
+}
+#content
+{
+
+	width: 1000px;
+	height: 400px;
+	background-color: #362327;
+	margin: auto;
+}
+#footer
+{
+
+	width: 1000px;
+	height: 100px;
+	background-color: #ae4eba;
+	margin: auto;
+}
